@@ -109,8 +109,7 @@ public class FindMinimalWeight {
 
     } catch (Exception e) {
       System.out.println("Exception occurred. Aborting.");
-      e.printStackTrace();
-
+     // e.printStackTrace();
       System.exit(0);
     }
   }
